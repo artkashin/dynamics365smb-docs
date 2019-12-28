@@ -2,8 +2,6 @@
     title: How to Set Up and Export Sales VAT Advance Notifications
     description: In Business Central, to create valid sales VAT advance notifications, you must perform certain setup.
 
-    services: project-madeira
-    documentationcenter: ''
     author: sorenfriisalexandersen
 
     ms.service: dynamics365-business-central
@@ -12,7 +10,7 @@
     ms.tgt_pltfrm: na
     ms.workload: na
     ms.search.keywords:
-    ms.date: 10/01/2019
+    ms.date: 12/06/2019
     ms.author: soalex
 
 ---
@@ -20,6 +18,10 @@
 # Sales VAT Advance Notifications  
 A Sales VAT Advance Notification in [!INCLUDE[d365fin](../../includes/d365fin_md.md)] is an XML file that you can use to report VAT to the German tax authorities on the Elektronische Steuererklärungen (ELSTER) online portal. The XML file includes tax and base amounts, and information about your company, and is created in the format and layout that German tax authorities require.    
 
+> [!NOTE]
+ >  Most of the functionality is included in the **ELSTER VAT Localization for Germany** Extension. Make sure that this is installed in your [!INCLUDE [prodshort](../../includes/prodshort.md)].
+ 
+ 
 ## Set Up and Export Sales VAT Advance Notifications
 To create valid sales VAT advance notifications, you must set up the following:  
 
@@ -62,4 +64,5 @@ To create valid sales VAT advance notifications, you must set up the following:
 
 ## See Also
 [VAT Reporting](vat-reporting.md)  
-[Germany Local Functionality](germany-local-functionality.md)
+[Germany Local Functionality](germany-local-functionality.md)  
+[Customizing Business Central Using Extensions](../../ui-extensions.md)  

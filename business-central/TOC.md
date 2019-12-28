@@ -5,6 +5,14 @@
 ## [Minimum Requirements](product-requirements.md)
 ## [Frequently Asked Questions](across-faq.md)
 ## [Resources for Help and Support](product-help-and-support.md)
+## [Getting Ready for Doing Business](ui-get-ready-business.md)
+## [Overview of Business Functionality](across-business-functionality.md)
+## [Your Access to the Intelligent Cloud with Business Central](about-intelligent-cloud.md)
+## [Visit Our Video Library](across-videos.md)
+## Trials and Subscriptions
+### [Overview](across-preview.md)
+### [Troubleshooting Self-Service Sign-Up](ui-troubleshoot-self-signup.md)
+### [Unsubscribe or Remove Business Central](admin-cancel.md)
 ## Find Training
 ### [Learning Catalog](readiness/readiness-learning-catalog.md)
 ### [Business Decision Maker Learning Catalog](readiness/readiness-learning-bus-decision-makers.md)
@@ -13,14 +21,6 @@
 ### [Functional Consultant Learning Catalog](readiness/readiness-learning-functional-consultants.md)
 ### [Pre-sales Learning Catalog](readiness/readiness-learning-presales.md)
 ### [Sales Learning Catalog](readiness/readiness-learning-sales.md)
-
-## [Getting Ready for Doing Business](ui-get-ready-business.md)
-## [Overview of Business Functionality](across-business-functionality.md)
-## [Trials and Subscriptions](across-preview.md)
-### [Troubleshooting Self-Service Sign-Up](ui-troubleshoot-self-signup.md)
-### [Unsubscribe or Remove Business Central](admin-cancel.md)
-## [Your Access to the Intelligent Cloud with Business Central](about-intelligent-cloud.md)
-## [Visit Our Video Library](across-videos.md)
 ## Resellers and Partners
 ### [Become a Reseller](product-sell.md)
 ### [Extending Business Central](about-develop-extensions.md)
@@ -314,7 +314,7 @@
 #### [Collecting Payments with SEPA Direct Debit](finance-collect-payments-with-sepa-direct-debit.md)
 #### [Update Currency Exchange Rates](finance-how-update-currencies.md)
 #### [Field Mapping When Importing SEPA CAMT Files](across-field-mapping-when-importing-sepa-camt-files.md)
-#### [Field Mapping When Exporting Payment Files Using Bank Data Conversion Service](across-field-mapping-when-exporting-payment-files-using-bank-data-conversion-service.md)
+#### [Field Mapping for the AMC Banking 365 Fundamentals Extension](across-field-mapping-when-exporting-payment-files-using-bank-data-conversion-service.md)
 
 # Administration
 ## [Overview](admin-setup-and-administration.md)
@@ -384,6 +384,7 @@
 #### [Review or Apply Payments Manually after Automatic Application](receivables-how-review-apply-payments-auto-application.md)
 #### [Reconcile Payments that Cannot be Applied Automatically](receivables-how-reconcile-payments-cannot-apply-auto.md)
 #### [Map Text on Recurring Payments to Accounts for Automatic Reconciliation](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md)
+#### [Set Up Rules for Automatic Application of Payments](receivables-how-set-up-payment-application-rules.md)
 ### [Reconcile Customer Payments from a List of Unpaid Sales Documents](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md)
 ### [Reconcile Customer Payments with the Cash Receipt Journal or from Customer Ledger Entries](receivables-how-apply-sales-transactions-manually.md)
 ### [Collect Outstanding Balances](receivables-collect-outstanding-balances.md)
@@ -426,11 +427,10 @@
 ### [Create Prepayment Invoices](finance-how-to-create-prepayment-invoices.md)
 ### [Correct Prepayments](finance-how-to-correct-prepayments.md)
 
-## Managing Bank Accounts
+## Reconciling Bank Accounts
 ### [Overview](bank-manage-bank-accounts.md)
+### [Reconcile Bank Accounts](bank-how-reconcile-bank-accounts-separately.md)
 ### [Applying Payments Automatically and Reconciling Bank Accounts](receivables-apply-payments-auto-reconcile-bank-accounts.md)
-### [Reconcile Bank Accounts Separately](bank-how-reconcile-bank-accounts-separately.md)  
-### [Transfer Bank Funds](bank-how-transfer-bank-funds.md)
 
 ## Managing Intercompany Transactions
 ### [Overview](intercompany-manage.md)
@@ -499,6 +499,7 @@
 ## [Analyzing Cash Flows in Your Company](finance-analyze-cash-flow.md)
 ## [Walkthrough: Making Cash Flow Forecasts by Using Account Schedules](walkthrough-making-cash-flow-forecasts-by-using-account-schedules.md)
 ## [Analyzing Financial Statements in Excel](finance-analyze-excel.md)
+## [Transfer Bank Funds](bank-how-transfer-bank-funds.md)
 ## [Accountant Experiences in Business Central](finance-accounting.md)
 
 # Business Intelligence
